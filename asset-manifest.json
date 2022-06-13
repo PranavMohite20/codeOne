@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeOne/static/css/main.ed2fc086.css",
+    "main.js": "/codeOne/static/js/main.49e8aad9.js",
+    "static/media/robinhood.svg": "/codeOne/static/media/robinhood.d4c5626b6668d03b02ae8d6dacd6637d.svg",
+    "index.html": "/codeOne/index.html",
+    "static/media/stock.svg": "/codeOne/static/media/stock.ef9ad21950556193f8e3e9fb02fc55a8.svg",
+    "main.ed2fc086.css.map": "/codeOne/static/css/main.ed2fc086.css.map",
+    "main.49e8aad9.js.map": "/codeOne/static/js/main.49e8aad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2fc086.css",
+    "static/js/main.49e8aad9.js"
+  ]
+}
